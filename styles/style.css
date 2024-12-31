@@ -44,7 +44,7 @@ body{
     align-items: center;
     justify-content: start;
 }
-a, .hero p{
+a, .hero p, .footer{
     text-decoration: none;
     color:#E5E7EB;
     font-size: 18px;
@@ -158,4 +158,10 @@ button:hover{
 
 .sign h1, .sign p{
     margin: 0;
+}
+.footer{
+    text-align: center;
+    background-color: #1f2937;
+    color: #F9FAF8;
+    padding: 20px;
 }
